@@ -1,0 +1,36 @@
+.navbar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    color:red;
+    /* text-decoration: none; */
+    text-decoration: none
+}
+
+li{
+    list-style-type: none;
+}
+
+.main{
+    justify-content: center;
+    align-items: center;
+}
+
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+}
